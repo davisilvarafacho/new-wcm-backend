@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Projeto base para APIs Django REST Framework."
 requires-python = ">=3.11"
 dependencies = [
-    "annotated-types==0.7.0",
+    "annotated-types==0.8.0",
     "anyio==4.11.0",
     "asgiref==3.10.0",
     "b2sdk==2.12.0",
