@@ -227,7 +227,7 @@ fail_under = 0
 
 [dependency-groups]
 test = [
-    "faker==40.35.0",
+    "faker==40.41.0",
     "pytest==9.1.1",
     "pytest-cov>=7.1.0",
     "pytest-django==4.12.0",
