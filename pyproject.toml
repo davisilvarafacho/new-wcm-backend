@@ -241,7 +241,7 @@ dev = [
     "django-debug-toolbar==6.1.0",
     "django-extensions==4.1",
     "django-silk==5.4.3",
-    "django-zeal==2.0.4",
+    "django-zeal==2.2.4",
     "drf-api-logger==1.1.21",
     "mypy>=2.3.0",
     "mkdocs-material>=9.7.1",
